@@ -1,2 +1,2 @@
 # yuv.cc-
-goo dh script
+good dh script
